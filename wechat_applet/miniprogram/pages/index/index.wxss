@@ -1,0 +1,29 @@
+/* pages/home/home.wxss */
+.introduction {
+  flex-direction: column;
+  align-items: center;
+}
+
+button {
+  color: coral;
+  border-radius: 50%;
+  border-color: coral;
+  background-color: white;
+  border-style:solid ;
+}
+
+page{
+  height:100%;
+}
+.background {
+  width: 100%;
+  height: 100%;
+  position:fixed; 
+  background-size:100% 100%;
+  z-index: -1;
+} 
+
+.explain {
+  color:#B452CD;
+  font-weight:bold;
+}

@@ -190,9 +190,3 @@ def dataProcess(data,b,a):
 if __name__ == '__main__':
     app.run(host='0.0.0.0', debug=True,port=8080)
 ```
-
-
-
-## 写在最后
-
-​        感谢大家的阅读.如果感兴趣可以到我的github下载全部项目和数据集.记得star~另外放上小程序的二维：
